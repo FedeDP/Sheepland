@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Coordinate>
+
+	<regione id = "0">
+		<coordX>240</coordX>
+		<coordY>253</coordY>
+	</regione>
+
+	<regione id = "1">
+		<coordX>50</coordX>
+		<coordY>120</coordY>
+	</regione>
+	
+	<regione id = "2">
+		<coordX>80</coordX>
+		<coordY>250</coordY>
+	</regione>
+	
+	<regione id = "3">
+		<coordX>175</coordX>
+		<coordY>330</coordY>
+	</regione>
+	
+	<regione id = "4">
+		<coordX>175</coordX>
+		<coordY>100</coordY>
+	</regione>
+	
+	<regione id = "5">
+		<coordX>285</coordX>
+		<coordY>48</coordY>
+	</regione>
+	
+	<regione id = "6">
+		<coordX>165</coordX>
+		<coordY>210</coordY>
+	</regione>
+	
+	<regione id = "7">
+		<coordX>256</coordX>
+		<coordY>167</coordY>
+	</regione>
+	
+	<regione id = "8">
+		<coordX>356</coordX>
+		<coordY>105</coordY>
+	</regione>
+	
+	<regione id = "9">
+		<coordX>406</coordX>
+		<coordY>148</coordY>
+	</regione>
+	
+	<regione id = "10">
+		<coordX>315</coordX>
+		<coordY>213</coordY>
+	</regione>
+	
+	<regione id = "11">
+		<coordX>398</coordX>
+		<coordY>262</coordY>
+	</regione>
+	
+	<regione id = "12">
+		<coordX>386</coordX>
+		<coordY>383</coordY>
+	</regione>
+	
+	<regione id = "13">
+		<coordX>311</coordX>
+		<coordY>319</coordY>
+	</regione>
+	
+	<regione id = "14">
+		<coordX>319</coordX>
+		<coordY>470</coordY>
+	</regione>
+
+	<regione id = "15">
+		<coordX>235</coordX>
+		<coordY>502</coordY>
+	</regione>
+	
+	<regione id = "16">
+		<coordX>242</coordX>
+		<coordY>374</coordY>
+	</regione>
+	
+	<regione id = "17">
+		<coordX>156</coordX>
+		<coordY>443</coordY>
+	</regione>
+	
+	<regione id = "18">
+		<coordX>93</coordX>
+		<coordY>392</coordY>
+	</regione>
+
+</Coordinate>

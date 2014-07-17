@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MappaStrada>
+
+	<strada id = "0">
+		<idStrada>2</idStrada>
+		<primaRegione>1</primaRegione>
+	 	<secondaRegione>4</secondaRegione>
+	 	<stradeAdiacenti>4</stradeAdiacenti>
+	 	<stradeAdiacenti>5</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "1">
+		<idStrada>3</idStrada>
+		<primaRegione>4</primaRegione>
+		<secondaRegione>5</secondaRegione>
+		<stradeAdiacenti>6</stradeAdiacenti>
+		<stradeAdiacenti>7</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "2">
+		<idStrada>1</idStrada>
+		<primaRegione>5</primaRegione> 
+		<secondaRegione>8</secondaRegione> 
+		<stradeAdiacenti>7</stradeAdiacenti>
+		<stradeAdiacenti>11</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "3">
+		<idStrada>1</idStrada>
+		<primaRegione>1</primaRegione>
+		<secondaRegione>2</secondaRegione> 
+		<stradeAdiacenti>4</stradeAdiacenti>
+		<stradeAdiacenti>9</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "4">
+		<idStrada>3</idStrada> 
+		<primaRegione>1</primaRegione> 
+		<secondaRegione>6</secondaRegione>
+		<stradeAdiacenti>0</stradeAdiacenti>
+		<stradeAdiacenti>3</stradeAdiacenti>
+		<stradeAdiacenti>5</stradeAdiacenti>
+		<stradeAdiacenti>9</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "5"> 
+		<idStrada>4</idStrada>
+		<primaRegione>4</primaRegione>
+		<secondaRegione>6</secondaRegione>
+		<stradeAdiacenti>0</stradeAdiacenti>
+		<stradeAdiacenti>4</stradeAdiacenti> 
+		<stradeAdiacenti>6</stradeAdiacenti> 
+		<stradeAdiacenti>10</stradeAdiacenti> 
+	</strada>
+	
+	<strada id = "6">
+		<idStrada>6</idStrada>
+	 	<primaRegione>4</primaRegione>
+	 	<secondaRegione>7</secondaRegione>
+	 	<stradeAdiacenti>1</stradeAdiacenti>
+	 	<stradeAdiacenti>5</stradeAdiacenti> 
+	 	<stradeAdiacenti>7</stradeAdiacenti> 
+	 	<stradeAdiacenti>10</stradeAdiacenti> 
+	 </strada>
+	 
+	<strada id = "7">
+		<idStrada>2</idStrada> 
+		<primaRegione>5</primaRegione>
+		<secondaRegione>7</secondaRegione>
+		<stradeAdiacenti>1</stradeAdiacenti>
+		<stradeAdiacenti>2</stradeAdiacenti> 
+		<stradeAdiacenti>6</stradeAdiacenti>
+		<stradeAdiacenti>11</stradeAdiacenti> 
+	</strada> 
+	
+	<strada id = "8">
+		<idStrada>2</idStrada> 
+		<primaRegione>8</primaRegione> 
+		<secondaRegione>9</secondaRegione>
+		<stradeAdiacenti>18</stradeAdiacenti>
+		<stradeAdiacenti>19</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "9">
+		<idStrada>2</idStrada> 
+		<primaRegione>2</primaRegione>
+		<secondaRegione>6</secondaRegione> 
+		<stradeAdiacenti>3</stradeAdiacenti>
+		<stradeAdiacenti>4</stradeAdiacenti> 
+		<stradeAdiacenti>13</stradeAdiacenti> 
+		<stradeAdiacenti>14</stradeAdiacenti> 
+	</strada>
+	
+	<strada id = "10">
+		<idStrada>5</idStrada>
+		<primaRegione>6</primaRegione>
+		<secondaRegione>7</secondaRegione>
+		<stradeAdiacenti>5</stradeAdiacenti>
+		<stradeAdiacenti>6</stradeAdiacenti> 
+		<stradeAdiacenti>15</stradeAdiacenti>
+		<stradeAdiacenti>16</stradeAdiacenti>  	
+	</strada>
+	
+	<strada id = "11">
+		<idStrada>3</idStrada>
+		<primaRegione>7</primaRegione>
+		<secondaRegione>8</secondaRegione>
+		<stradeAdiacenti>2</stradeAdiacenti>
+		<stradeAdiacenti>7</stradeAdiacenti> 
+		<stradeAdiacenti>17</stradeAdiacenti>
+		<stradeAdiacenti>18</stradeAdiacenti> 
+	</strada>
+	 
+	<strada id = "12"> 
+		<idStrada>4</idStrada>
+		<primaRegione>2</primaRegione>
+		<secondaRegione>18</secondaRegione>
+		<stradeAdiacenti>13</stradeAdiacenti>
+		<stradeAdiacenti>21</stradeAdiacenti> 
+	</strada>
+	
+	<strada id = "13">
+		<idStrada>3</idStrada>
+		<primaRegione>2</primaRegione> 
+		<secondaRegione>3</secondaRegione> 
+		<stradeAdiacenti>9</stradeAdiacenti>
+		<stradeAdiacenti>12</stradeAdiacenti> 
+		<stradeAdiacenti>14</stradeAdiacenti> 
+		<stradeAdiacenti>21</stradeAdiacenti> 
+	</strada>
+	
+	<strada id = "14">
+		<idStrada>1</idStrada>
+		<primaRegione>6</primaRegione> 
+		<secondaRegione>3</secondaRegione> 
+		<stradeAdiacenti>9</stradeAdiacenti>
+		<stradeAdiacenti>13</stradeAdiacenti>
+		<stradeAdiacenti>15</stradeAdiacenti>
+		<stradeAdiacenti>22</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "15">
+		<idStrada>6</idStrada> 
+		<primaRegione>6</primaRegione>
+		<secondaRegione>0</secondaRegione>
+		<stradeAdiacenti>10</stradeAdiacenti>
+		<stradeAdiacenti>14</stradeAdiacenti>
+		<stradeAdiacenti>16</stradeAdiacenti>
+		<stradeAdiacenti>22</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "16"> 
+		<idStrada>1</idStrada>
+		<primaRegione>7</primaRegione>
+		<secondaRegione>0</secondaRegione> 
+		<stradeAdiacenti>10</stradeAdiacenti>
+		<stradeAdiacenti>15</stradeAdiacenti>
+		<stradeAdiacenti>17</stradeAdiacenti>
+		<stradeAdiacenti>23</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "17">
+		<idStrada>4</idStrada> 
+		<primaRegione>7</primaRegione>
+		<secondaRegione>10</secondaRegione> 
+		<stradeAdiacenti>11</stradeAdiacenti>
+		<stradeAdiacenti>16</stradeAdiacenti>
+		<stradeAdiacenti>18</stradeAdiacenti>
+		<stradeAdiacenti>23</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "18">
+		<idStrada>5</idStrada>
+		<primaRegione>8</primaRegione>
+		<secondaRegione>10</secondaRegione>
+		<stradeAdiacenti>8</stradeAdiacenti>
+		<stradeAdiacenti>11</stradeAdiacenti>
+		<stradeAdiacenti>17</stradeAdiacenti>
+		<stradeAdiacenti>19</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "19">
+		<idStrada>3</idStrada>
+		<primaRegione>10</primaRegione>
+		<secondaRegione>9</secondaRegione>
+		<stradeAdiacenti>8</stradeAdiacenti>
+		<stradeAdiacenti>18</stradeAdiacenti>
+		<stradeAdiacenti>20</stradeAdiacenti>
+		<stradeAdiacenti>24</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "20"> 
+		<idStrada>1</idStrada>
+		<primaRegione>9</primaRegione>
+		<secondaRegione>11</secondaRegione>
+		<stradeAdiacenti>19</stradeAdiacenti>
+		<stradeAdiacenti>24</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "21">
+		<idStrada>2</idStrada>
+		<primaRegione>18</primaRegione>
+		<secondaRegione>3</secondaRegione>
+		<stradeAdiacenti>12</stradeAdiacenti>
+		<stradeAdiacenti>13</stradeAdiacenti>
+		<stradeAdiacenti>25</stradeAdiacenti>
+		<stradeAdiacenti>31</stradeAdiacenti>
+	</strada>
+
+	<strada id = "22"> 
+		<idStrada>5</idStrada>
+		<primaRegione>3</primaRegione> 
+		<secondaRegione>0</secondaRegione>
+		<stradeAdiacenti>14</stradeAdiacenti>
+		<stradeAdiacenti>15</stradeAdiacenti>
+		<stradeAdiacenti>26</stradeAdiacenti>
+		<stradeAdiacenti>27</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "23">
+		<idStrada>2</idStrada> 
+		<primaRegione>0</primaRegione>
+		<secondaRegione>10</secondaRegione>
+		<stradeAdiacenti>16</stradeAdiacenti>
+		<stradeAdiacenti>17</stradeAdiacenti>
+		<stradeAdiacenti>28</stradeAdiacenti>
+		<stradeAdiacenti>29</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "24">
+	<idStrada>6</idStrada>
+		<primaRegione>10</primaRegione>
+		<secondaRegione>11</secondaRegione>
+		<stradeAdiacenti>19</stradeAdiacenti>
+		<stradeAdiacenti>20</stradeAdiacenti>
+		<stradeAdiacenti>29</stradeAdiacenti>
+		<stradeAdiacenti>30</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "25">
+		<idStrada>4</idStrada>
+		<primaRegione>3</primaRegione>
+		<secondaRegione>17</secondaRegione>
+		<stradeAdiacenti>21</stradeAdiacenti>
+		<stradeAdiacenti>26</stradeAdiacenti>
+		<stradeAdiacenti>31</stradeAdiacenti>
+		<stradeAdiacenti>32</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "26"> 
+		<idStrada>6</idStrada> 
+		<primaRegione>3</primaRegione>
+		<secondaRegione>16</secondaRegione>
+		<stradeAdiacenti>22</stradeAdiacenti>
+		<stradeAdiacenti>25</stradeAdiacenti>
+		<stradeAdiacenti>27</stradeAdiacenti>
+		<stradeAdiacenti>32</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "27">
+		<idStrada>4</idStrada>
+		<primaRegione>0</primaRegione>
+		<secondaRegione>16</secondaRegione>
+		<stradeAdiacenti>22</stradeAdiacenti>
+		<stradeAdiacenti>26</stradeAdiacenti>
+		<stradeAdiacenti>28</stradeAdiacenti>
+		<stradeAdiacenti>33</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "28">
+		<idStrada>3</idStrada>
+		<primaRegione>0</primaRegione> 
+		<secondaRegione>13</secondaRegione>
+		<stradeAdiacenti>23</stradeAdiacenti>
+		<stradeAdiacenti>27</stradeAdiacenti>
+		<stradeAdiacenti>29</stradeAdiacenti>
+		<stradeAdiacenti>33</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "29">
+		<idStrada>1</idStrada>
+		<primaRegione>10</primaRegione>
+		<secondaRegione>13</secondaRegione>
+		<stradeAdiacenti>23</stradeAdiacenti>
+		<stradeAdiacenti>24</stradeAdiacenti>
+		<stradeAdiacenti>28</stradeAdiacenti>
+		<stradeAdiacenti>30</stradeAdiacenti>
+	</strada>
+		
+	<strada id = "30">
+		<idStrada>2</idStrada>
+		<primaRegione>13</primaRegione>
+		<secondaRegione>11</secondaRegione>
+		<stradeAdiacenti>24</stradeAdiacenti>
+		<stradeAdiacenti>29</stradeAdiacenti>
+		<stradeAdiacenti>34</stradeAdiacenti>
+		<stradeAdiacenti>35</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "31">
+		<idStrada>1</idStrada>
+		<primaRegione>18</primaRegione>
+		<secondaRegione>17</secondaRegione>
+		<stradeAdiacenti>21</stradeAdiacenti>
+		<stradeAdiacenti>25</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "32"> 
+		<idStrada>3</idStrada> 
+		<primaRegione>17</primaRegione>
+		<secondaRegione>16</secondaRegione> 
+		<stradeAdiacenti>25</stradeAdiacenti>
+		<stradeAdiacenti>26</stradeAdiacenti>
+		<stradeAdiacenti>36</stradeAdiacenti>
+		<stradeAdiacenti>39</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "33">
+		<idStrada>5</idStrada>
+		<primaRegione>16</primaRegione> 
+		<secondaRegione>13</secondaRegione> 
+		<stradeAdiacenti>27</stradeAdiacenti>
+		<stradeAdiacenti>28</stradeAdiacenti>
+		<stradeAdiacenti>37</stradeAdiacenti>
+		<stradeAdiacenti>38</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "34">
+		<idStrada>4</idStrada>
+		<primaRegione>13</primaRegione> 
+		<secondaRegione>12</secondaRegione> 
+		<stradeAdiacenti>30</stradeAdiacenti>
+		<stradeAdiacenti>35</stradeAdiacenti>
+		<stradeAdiacenti>38</stradeAdiacenti>
+		<stradeAdiacenti>41</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "35">
+		<idStrada>5</idStrada>
+		<primaRegione>11</primaRegione> 
+		<secondaRegione>12</secondaRegione> 
+		<stradeAdiacenti>30</stradeAdiacenti>
+		<stradeAdiacenti>34</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "36">
+		<idStrada>1</idStrada> 
+		<primaRegione>16</primaRegione> 
+		<secondaRegione>15</secondaRegione> 
+		<stradeAdiacenti>32</stradeAdiacenti>
+		<stradeAdiacenti>37</stradeAdiacenti>
+		<stradeAdiacenti>39</stradeAdiacenti>
+		<stradeAdiacenti>40</stradeAdiacenti>
+	</strada>
+		
+	<strada id = "37">
+		<idStrada>2</idStrada> 
+		<primaRegione>16</primaRegione> 
+		<secondaRegione>14</secondaRegione> 
+		<stradeAdiacenti>33</stradeAdiacenti>
+		<stradeAdiacenti>36</stradeAdiacenti>
+		<stradeAdiacenti>38</stradeAdiacenti>
+		<stradeAdiacenti>40</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "38">
+		<idStrada>6</idStrada> 
+		<primaRegione>13</primaRegione> 
+		<secondaRegione>14</secondaRegione> 
+		<stradeAdiacenti>33</stradeAdiacenti>
+		<stradeAdiacenti>34</stradeAdiacenti>
+		<stradeAdiacenti>37</stradeAdiacenti>
+		<stradeAdiacenti>41</stradeAdiacenti>
+	</strada>
+			
+	<strada id = "39">
+		<idStrada>2</idStrada>
+		<primaRegione>17</primaRegione> 
+		<secondaRegione>15</secondaRegione> 
+		<stradeAdiacenti>32</stradeAdiacenti>
+		<stradeAdiacenti>36</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "40">
+		<idStrada>5</idStrada> 
+		<primaRegione>15</primaRegione> 
+		<secondaRegione>14</secondaRegione> 
+		<stradeAdiacenti>36</stradeAdiacenti>
+		<stradeAdiacenti>37</stradeAdiacenti>
+	</strada>
+	
+	<strada id = "41">
+		<idStrada>1</idStrada> 
+		<primaRegione>14</primaRegione> 
+		<secondaRegione>12</secondaRegione> 
+		<stradeAdiacenti>34</stradeAdiacenti>
+		<stradeAdiacenti>38</stradeAdiacenti>
+	</strada>
+	
+</MappaStrada>

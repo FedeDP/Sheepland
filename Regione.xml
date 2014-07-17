@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MappaRegione>
+
+	<regione id = "0">
+		<stradeConfini>15</stradeConfini>
+		<stradeConfini>16</stradeConfini>
+		<stradeConfini>22</stradeConfini>
+		<stradeConfini>23</stradeConfini>
+		<stradeConfini>27</stradeConfini>
+		<stradeConfini>28</stradeConfini>
+	</regione>
+		
+	<regione id = "1">
+		<stradeConfini>0</stradeConfini>
+		<stradeConfini>4</stradeConfini>
+		<stradeConfini>3</stradeConfini>
+	</regione> 
+	
+	<regione id = "2">
+	 	<stradeConfini>3</stradeConfini>
+	 	<stradeConfini>9</stradeConfini>
+	 	<stradeConfini>12</stradeConfini>
+	 	<stradeConfini>13</stradeConfini>
+	</regione>
+	 
+	<regione id = "3">
+		<stradeConfini>13</stradeConfini>
+		<stradeConfini>14</stradeConfini>
+		<stradeConfini>21</stradeConfini>
+		<stradeConfini>22</stradeConfini>
+		<stradeConfini>25</stradeConfini>
+		<stradeConfini>26</stradeConfini>
+	</regione>
+		
+	<regione id = "4">
+		<stradeConfini>0</stradeConfini>
+		<stradeConfini>1</stradeConfini>
+		<stradeConfini>5</stradeConfini>
+		<stradeConfini>6</stradeConfini>
+	</regione>
+	
+	<regione id = "5">
+		<stradeConfini>1</stradeConfini>
+		<stradeConfini>2</stradeConfini>
+		<stradeConfini>7</stradeConfini>
+	</regione>
+	<regione id = "6">
+		<stradeConfini>4</stradeConfini>
+		<stradeConfini>5</stradeConfini>
+		<stradeConfini>9</stradeConfini>
+		<stradeConfini>10</stradeConfini>
+		<stradeConfini>14</stradeConfini>
+		<stradeConfini>15</stradeConfini>
+	</regione>
+	
+	<regione id = "7">
+		<stradeConfini>6</stradeConfini>
+		<stradeConfini>7</stradeConfini>
+		<stradeConfini>10</stradeConfini>
+		<stradeConfini>11</stradeConfini>
+		<stradeConfini>16</stradeConfini>
+		<stradeConfini>17</stradeConfini>
+	</regione>
+	
+	<regione id = "8">
+		<stradeConfini>2</stradeConfini>
+		<stradeConfini>8</stradeConfini>
+		<stradeConfini>11</stradeConfini>
+		<stradeConfini>18</stradeConfini>
+	</regione>
+	
+	<regione id = "9">
+		<stradeConfini>8</stradeConfini>
+		<stradeConfini>19</stradeConfini>
+		<stradeConfini>20</stradeConfini>
+	</regione>
+	
+	<regione id = "10">
+		<stradeConfini>17</stradeConfini>
+		<stradeConfini>18</stradeConfini>
+		<stradeConfini>19</stradeConfini>
+		<stradeConfini>23</stradeConfini>
+		<stradeConfini>24</stradeConfini>
+		<stradeConfini>29</stradeConfini>
+	</regione>
+	
+	<regione id = "11">
+		<stradeConfini>20</stradeConfini>
+		<stradeConfini>24</stradeConfini>
+		<stradeConfini>30</stradeConfini>
+		<stradeConfini>35</stradeConfini>
+	</regione>
+	
+	<regione id = "12">
+		<stradeConfini>35</stradeConfini>
+		<stradeConfini>34</stradeConfini>
+		<stradeConfini>41</stradeConfini>
+	</regione>
+	
+	<regione id = "13">
+		<stradeConfini>28</stradeConfini>
+		<stradeConfini>29</stradeConfini>
+		<stradeConfini>30</stradeConfini>
+		<stradeConfini>33</stradeConfini>
+		<stradeConfini>34</stradeConfini>
+		<stradeConfini>38</stradeConfini>
+	</regione>
+	
+	<regione id = "14">
+		<stradeConfini>37</stradeConfini>
+		<stradeConfini>38</stradeConfini>
+		<stradeConfini>40</stradeConfini>
+		<stradeConfini>41</stradeConfini>
+	</regione>
+	<regione id = "15">
+		<stradeConfini>36</stradeConfini>
+		<stradeConfini>39</stradeConfini>
+		<stradeConfini>40</stradeConfini>
+	</regione>
+	
+	<regione id = "16">
+		<stradeConfini>26</stradeConfini>
+		<stradeConfini>27</stradeConfini>
+		<stradeConfini>32</stradeConfini>
+		<stradeConfini>33</stradeConfini>
+		<stradeConfini>36</stradeConfini>
+		<stradeConfini>37</stradeConfini>
+	</regione>
+	
+	<regione id = "17">
+		<stradeConfini>25</stradeConfini>
+		<stradeConfini>31</stradeConfini>
+		<stradeConfini>32</stradeConfini>
+		<stradeConfini>39</stradeConfini>
+	</regione>
+	
+	<regione id = "18">
+		<stradeConfini>12</stradeConfini>
+		<stradeConfini>21</stradeConfini>
+		<stradeConfini>31</stradeConfini>
+	</regione>
+			  
+</MappaRegione>

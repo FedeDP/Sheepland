@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Coordinate>
+	
+	<strada id = "0">
+		<coordX>104</coordX>
+		<coordY>105</coordY>
+	</strada>
+
+	<strada id = "1">
+		<coordX>230</coordX>
+		<coordY>50</coordY>
+	</strada>
+
+	<strada id = "2">
+		<coordX>317</coordX>
+		<coordY>53</coordY>
+	</strada>
+	
+	<strada id = "3">
+		<coordX>62</coordX>
+		<coordY>176</coordY>
+	</strada>
+	
+	<strada id = "4">
+		<coordX>133</coordX>
+		<coordY>149</coordY>
+	</strada>
+	
+	<strada id = "5">
+		<coordX>178</coordX>
+		<coordY>131</coordY>
+	</strada>
+	
+	<strada id = "6">
+		<coordX>226</coordX>
+		<coordY>110</coordY>
+	</strada>
+	
+	<strada id = "7">
+		<coordX>266</coordX>
+		<coordY>98</coordY>
+	</strada>
+	
+	<strada id = "8">
+		<coordX>381</coordX>
+		<coordY>102</coordY>
+	</strada>
+	
+	<strada id = "9">
+		<coordX>133</coordX>
+		<coordY>204</coordY>
+	</strada>
+	
+	<strada id = "10">
+		<coordX>216</coordX>
+		<coordY>157</coordY>
+	</strada>
+	
+	<strada id = "11">
+		<coordX>299</coordX>
+		<coordY>124</coordY>
+	</strada>
+	
+	<strada id = "12">
+		<coordX>97</coordX>
+		<coordY>296</coordY>
+	</strada>
+	
+	<strada id = "13">
+		<coordX>132</coordX>
+		<coordY>265</coordY>
+	</strada>
+	
+	<strada id = "14">
+		<coordX>164</coordX>
+		<coordY>240</coordY>
+	</strada>
+	
+	<strada id = "15">
+		<coordX>197</coordX>
+		<coordY>214</coordY>
+	</strada>
+	
+	<strada id = "16">
+		<coordX>236</coordX>
+		<coordY>189</coordY>
+	</strada>
+	
+	<strada id = "17">
+		<coordX>281</coordX>
+		<coordY>167</coordY>
+	</strada>
+	
+	<strada id = "18">
+		<coordX>329</coordX>
+		<coordY>143</coordY>
+	</strada>
+	
+	<strada id = "19">
+		<coordX>365</coordX>
+		<coordY>160</coordY>
+	</strada>
+	
+	<strada id = "20">
+		<coordX>411</coordX>
+		<coordY>174</coordY>
+	</strada>
+	
+	<strada id = "21">
+		<coordX>137</coordX>
+		<coordY>329</coordY>
+	</strada>
+	
+	<strada id = "22">
+		<coordX>199</coordX>
+		<coordY>262</coordY>
+	</strada>
+	
+	<strada id = "23">
+		<coordX>270</coordX>
+		<coordY>214</coordY>
+	</strada>
+	
+	<strada id = "24">
+		<coordX>359</coordX>
+		<coordY>207</coordY>
+	</strada>
+	
+	<strada id = "25">
+		<coordX>167</coordX>
+		<coordY>371</coordY>
+	</strada>
+	
+	<strada id = "26">
+		<coordX>207</coordX>
+		<coordY>327</coordY>
+	</strada>
+	
+	<strada id = "27">
+		<coordX>241</coordX>
+		<coordY>282</coordY>
+	</strada>
+	
+	<strada id = "28">
+		<coordX>276</coordX>
+		<coordY>260</coordY>
+	</strada>
+	
+	<strada id = "29">
+		<coordX>307</coordX>
+		<coordY>242</coordY>
+	</strada>
+	
+	<strada id = "30">
+		<coordX>358</coordX>
+		<coordY>258</coordY>
+	</strada>
+	
+	<strada id = "31">
+		<coordX>103</coordX>
+		<coordY>428</coordY>
+	</strada>
+	
+	<strada id = "32">
+		<coordX>202</coordX>
+		<coordY>391</coordY>
+	</strada>
+	
+	<strada id = "33">
+		<coordX>275</coordX>
+		<coordY>315</coordY>
+	</strada>
+	
+	<strada id = "34">
+		<coordX>342</coordX>
+		<coordY>319</coordY>
+	</strada>
+	
+	<strada id = "35">
+		<coordX>402</coordX>
+		<coordY>294</coordY>
+	</strada>
+	
+	<strada id = "36">
+		<coordX>238</coordX>
+		<coordY>409</coordY>
+	</strada>
+	
+	<strada id = "37">
+		<coordX>274</coordX>
+		<coordY>383</coordY>
+	</strada>
+	
+	<strada id = "38">
+		<coordX>303</coordX>
+		<coordY>359</coordY>
+	</strada>
+	
+	<strada id = "39">
+		<coordX>166</coordX>
+		<coordY>479</coordY>
+	</strada>
+	
+	<strada id = "40">
+		<coordX>275</coordX>
+		<coordY>457</coordY>
+	</strada>
+
+	<strada id = "41">
+		<coordX>348</coordX>
+		<coordY>402</coordY>
+	</strada>
+	
+</Coordinate>
