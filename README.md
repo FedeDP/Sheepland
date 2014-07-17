@@ -11,3 +11,5 @@ which of the 2 disconnected players he was.
 
 UI is very basic.
 The entire application is in italian language (sorry about that).
+
+![alt tag](https://github.com/FedeDP/Sheepland/blob/master/sheepland.png)
